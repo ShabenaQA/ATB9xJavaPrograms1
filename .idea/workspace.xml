@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f54034c-0927-4a33-9a7e-cfae126d8009" name="Changes" comment="All Files">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_10102024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab005_Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_09102024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_11102024/Lab009.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_04102024/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_04102024/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +49,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Calculator.executor": "Run",
     "Application.Lab003.executor": "Run",
     "Application.Lab004.executor": "Run",
+    "Application.Lab005_Constant.executor": "Run",
+    "Application.Lab006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab004">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_04102024.Calculator" />
+      <module name="ATB9xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_04102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_06102024.Lab003" />
       <module name="ATB9xJavaPrograms" />
@@ -81,10 +100,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab005_Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_09102024.Lab005_Constant" />
+      <module name="ATB9xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Oct.ex_09102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab004" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Lab003" />
+        <item itemvalue="Application.Lab005_Constant" />
+        <item itemvalue="Application.Lab004" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +139,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728221581093</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All Files">
+      <option name="closed" value="true" />
+      <created>1728614407076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728614407076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

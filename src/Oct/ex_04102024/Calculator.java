@@ -5,6 +5,7 @@ public class Calculator {
         System.out.println(10+20);
         System.out.println(40-20);
         System.out.println(10*20);
+        System.out.println(10/2);
         System.out.println(10%2);
     }
 }
