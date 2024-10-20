@@ -4,9 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f54034c-0927-4a33-9a7e-cfae126d8009" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab003.java" afterDir="false" />
+    <list default="true" id="6f54034c-0927-4a33-9a7e-cfae126d8009" name="Changes" comment="All Files 17 Oct">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab006_Any_Argument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/$.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_08102024/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_03102024/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_03102024/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_15102024/Task15102024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_15102024/Task15102024_ID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_16102024/task_16102024_t1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_16102024/task_16102024_t2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task_16102024/task_16102024_t3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab003.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab003.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +62,33 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.$.executor": "Run",
     "Application.Calculator.executor": "Run",
     "Application.Lab003.executor": "Run",
     "Application.Lab004.executor": "Run",
     "Application.Lab005_Constant.executor": "Run",
     "Application.Lab006.executor": "Run",
-    "Application.Oct.ex_02102024.Lab003.executor": "Debug",
+    "Application.Lab006_Any_Argument.executor": "Run",
+    "Application.Lab007.executor": "Run",
+    "Application.Lab008.executor": "Run",
+    "Application.Lab009.executor": "Run",
+    "Application.Lab010.executor": "Run",
+    "Application.Oct.ex_02102024.Lab003.executor": "Run",
+    "Application.Task15102024.executor": "Run",
+    "Application.Task15102024_ID.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.task_16102024_t1.executor": "Run",
+    "Application.task_16102024_t2.executor": "Run",
+    "Application.task_16102024_t3.executor": "Run",
+    "Application.task_1610204_t3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Oct.ex_02102024.Lab003">
+  <component name="RunManager">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oct.ex_04102024.Calculator" />
       <module name="ATB9xJavaPrograms" />
@@ -167,11 +197,20 @@
       <option name="project" value="LOCAL" />
       <updated>1728740717271</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="All Files 17 Oct">
+      <option name="closed" value="true" />
+      <created>1729131708334</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729131708334</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Files" />
+    <MESSAGE value="All Files 17 Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Files 17 Oct" />
   </component>
 </project>

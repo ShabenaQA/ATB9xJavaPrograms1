@@ -6,3 +6,9 @@ public class Lab002 {
         System.out.println("HelloWorld2");
     }
 }
+/*
+ * This is multi line comments
+ * This is used to Documentation, Reference
+ * Author - Pramod
+ *
+ * */
