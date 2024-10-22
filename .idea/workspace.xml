@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f54034c-0927-4a33-9a7e-cfae126d8009" name="Changes" comment="All Files 20 Oct" />
+    <list default="true" id="6f54034c-0927-4a33-9a7e-cfae126d8009" name="Changes" comment="All Files 20 Oct">
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab103_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab104_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab105_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab106_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab107_UiArg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab108_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_22102024_While/Lab109_Do_While.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +66,14 @@
     "Application.Lab008.executor": "Run",
     "Application.Lab009.executor": "Run",
     "Application.Lab010.executor": "Run",
+    "Application.Lab102.executor": "Run",
+    "Application.Lab103_While.executor": "Run",
+    "Application.Lab104_While.executor": "Run",
+    "Application.Lab105_While.executor": "Run",
+    "Application.Lab106_While.executor": "Debug",
+    "Application.Lab107_UiArg.executor": "Run",
+    "Application.Lab108_While.executor": "Run",
+    "Application.Lab109_Do_While.executor": "Run",
     "Application.Oct.ex_02102024.Lab003.executor": "Run",
     "Application.Task15102024.executor": "Run",
     "Application.Task15102024_ID.executor": "Run",
@@ -65,6 +83,11 @@
     "Application.task_16102024_t2.executor": "Run",
     "Application.task_16102024_t3.executor": "Run",
     "Application.task_1610204_t3.executor": "Run",
+    "Application.task_Months_t2.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -98,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_10102024.Lab004" />
+    <configuration name="Lab104_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_While.Lab104_While" />
       <module name="ATB9xJavaPrograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_10102024.*" />
+          <option name="PATTERN" value="Oct.ex_22102024_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +134,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab005_Constant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_09102024.Lab005_Constant" />
+    <configuration name="Lab107_UiArg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oct.ex_22102024_While.Lab107_UiArg" />
       <module name="ATB9xJavaPrograms" />
+      <option name="PROGRAM_PARAMETERS" value="2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_09102024.*" />
+          <option name="PATTERN" value="Oct.ex_22102024_While.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,13 +161,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.Lab003" />
+      <item itemvalue="Application.Lab104_While" />
+      <item itemvalue="Application.Lab107_UiArg" />
+      <item itemvalue="Application.Oct.ex_02102024.Lab003" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab107_UiArg" />
+        <item itemvalue="Application.Lab104_While" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Oct.ex_02102024.Lab003" />
         <item itemvalue="Application.Lab003" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Lab005_Constant" />
-        <item itemvalue="Application.Lab004" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729445845626</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All Files 20 Oct">
+      <option name="closed" value="true" />
+      <created>1729446153111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729446153111</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
